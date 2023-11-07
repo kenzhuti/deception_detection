@@ -102,6 +102,8 @@ For deep learning models, execute the following command line format.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Publication
+[Link](https://pats.cs.cf.ac.uk/!archive_desc?p=2572)
 
 ## Contact
 
