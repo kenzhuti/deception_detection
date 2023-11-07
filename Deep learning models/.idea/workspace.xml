@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd135c75-a7f9-4780-a462-3e69d6e037d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="cca6d05d-d926-45d4-be64-11aba1e3d1d8" />
+  <component name="ProjectId" id="208lCOECVYPlREQG1mJ1JJbtxQs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.main_lstm">
+    <configuration name="main_lstm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NN_lie_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/AI/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_lstm.py" />
+      <option name="PARAMETERS" value="--ema --fgm" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in main_lstm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="NN_lie_detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/main_lstm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main_lstm" />
+      <item itemvalue="Python tests.pytest in main_lstm.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in main_lstm.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd135c75-a7f9-4780-a462-3e69d6e037d5" name="Default Changelist" comment="" />
+      <created>1635433966810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635433966810</updated>
+      <workItem from="1635433975618" duration="19857000" />
+      <workItem from="1666628864800" duration="4564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="92" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666631117912">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state x="705" y="92" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1666631117912" />
+    <state x="432" y="270" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1666630425005">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state x="432" y="270" key="#com.intellij.ide.macro.MacrosDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1666630425005" />
+    <state width="1792" height="438" key="DebuggerActiveHint" timestamp="1666629549247">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1792" height="438" key="DebuggerActiveHint/0.25.1792.1036@0.25.1792.1036" timestamp="1666629549247" />
+    <state width="1578" height="246" key="GridCell.Tab.0.bottom" timestamp="1666759835632">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.0.bottom/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835632" />
+    <state width="1578" height="354" key="GridCell.Tab.0.bottom/0.25.1792.1036@0.25.1792.1036" timestamp="1666631154657" />
+    <state width="1578" height="246" key="GridCell.Tab.0.center" timestamp="1666759835631">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.0.center/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835631" />
+    <state width="1578" height="354" key="GridCell.Tab.0.center/0.25.1792.1036@0.25.1792.1036" timestamp="1666631154656" />
+    <state width="1578" height="246" key="GridCell.Tab.0.left" timestamp="1666759835631">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.0.left/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835631" />
+    <state width="1578" height="354" key="GridCell.Tab.0.left/0.25.1792.1036@0.25.1792.1036" timestamp="1666631154655" />
+    <state width="1578" height="246" key="GridCell.Tab.0.right" timestamp="1666759835632">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.0.right/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835632" />
+    <state width="1578" height="354" key="GridCell.Tab.0.right/0.25.1792.1036@0.25.1792.1036" timestamp="1666631154656" />
+    <state width="1578" height="246" key="GridCell.Tab.1.bottom" timestamp="1666759835633">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.1.bottom/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835633" />
+    <state width="1578" height="246" key="GridCell.Tab.1.bottom/0.25.1792.1036@0.25.1792.1036" timestamp="1666630138865" />
+    <state width="1578" height="246" key="GridCell.Tab.1.center" timestamp="1666759835632">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.1.center/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835632" />
+    <state width="1578" height="246" key="GridCell.Tab.1.center/0.25.1792.1036@0.25.1792.1036" timestamp="1666630138865" />
+    <state width="1578" height="246" key="GridCell.Tab.1.left" timestamp="1666759835632">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.1.left/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835632" />
+    <state width="1578" height="246" key="GridCell.Tab.1.left/0.25.1792.1036@0.25.1792.1036" timestamp="1666630138865" />
+    <state width="1578" height="246" key="GridCell.Tab.1.right" timestamp="1666759835633">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1578" height="246" key="GridCell.Tab.1.right/0.-1055.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1666759835633" />
+    <state width="1578" height="246" key="GridCell.Tab.1.right/0.25.1792.1036@0.25.1792.1036" timestamp="1666630138865" />
+    <state width="552" height="518" key="XDebugger.FullValuePopup" timestamp="1666629658765">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="552" height="518" key="XDebugger.FullValuePopup/0.25.1792.1036@0.25.1792.1036" timestamp="1666629658765" />
+    <state x="786" y="300" width="674" height="486" key="find.popup" timestamp="1666727042878">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state x="786" y="300" width="674" height="486" key="find.popup/0.25.1792.1036@0.25.1792.1036" timestamp="1666727042878" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_lstm.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_lstm.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_lstm.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_lstm.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="args" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NN_lie_detection$pytest_in_main_bert_py.coverage" NAME="pytest in main_bert.py Coverage Results" MODIFIED="1635486545294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_learning_models$pytest_in_main_lstm_py.coverage" NAME="pytest in main_lstm.py Coverage Results" MODIFIED="1666629427105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_learning_models$main_lstm.coverage" NAME="main_lstm Coverage Results" MODIFIED="1666631154647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
