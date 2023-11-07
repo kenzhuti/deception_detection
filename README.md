@@ -104,7 +104,7 @@ For deep learning models, execute the following command line format.
 
 ## Contact
 
-Qin Liu - [LinkedIn](https://www.linkedin.com/in/qin-liu-b100501ab/) - [Cardiff University Profile](https://www.cardiff.ac.uk/people/view/2654620-liu-qin) - liuq39@cardiff.ac.uk
+Qin Liu - [LinkedIn](https://www.linkedin.com/in/qin-liu-b100501ab/) - qin.liu01@estudiant.upf.edu / qinliu1996@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
