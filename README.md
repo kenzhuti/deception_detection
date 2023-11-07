@@ -91,7 +91,8 @@ For basic models, just run the cells of *.ipynb files stepwise. To be more speci
 
 For deep learning models, execute the following command line format.
 * Format:  
-  ```python <python_file_name>.py > '>' <log_file_name>.out --fgm <and/or> --ema <and/or> --aug <and/or> ...
+  ```
+  python <python_file_name>.py > '>' <log_file_name>.out --fgm <and/or> --ema <and/or> --aug <and/or> ...
   ```  
   Optional arguements '--fgm', '--ema', '--aug' indicate the optional optimisation methods of the models.
 * Examples:
